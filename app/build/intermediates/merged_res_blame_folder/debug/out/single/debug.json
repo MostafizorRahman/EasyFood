@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_menu_recycler_row.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_shopping_cart.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\shopping_cart.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle_arrow.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\circle_arrow.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_place_your_order.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_place_order_recycler_row.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_circle.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_order_succeess.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_rounded.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\white_rounded.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fsplash.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\ic_fsplash.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable_fooddelivery.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable\\fooddelivery.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restaurant_menu.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_scooter.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\drawable-v24\\scooter.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\raw_restaurent.json.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\raw\\restaurent.json"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_row.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_layout.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\menu\\menu_layout.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\EasyFood\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\EasyFood\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signin.xml.flat",
+        "source": "G:\\EasyFood\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    }
+]
